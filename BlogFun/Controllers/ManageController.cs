@@ -24,7 +24,6 @@ namespace BlogFun.Controllers
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly SignInManager<ApplicationUser> _signInManager;
         private readonly IEmailSender _emailSender;
-        private readonly ISmsSender _smsSender;
         private readonly ILogger _logger;
         private readonly IGooglePictureLocator _pictureLocator;
         private readonly UrlEncoder _urlEncoder;
@@ -36,7 +35,6 @@ namespace BlogFun.Controllers
           UserManager<ApplicationUser> userManager,
           SignInManager<ApplicationUser> signInManager,
           IEmailSender emailSender,
-          ISmsSender smsSender,
           ILogger<ManageController> logger,
           IGooglePictureLocator pictureLocator,
           UrlEncoder urlEncoder)
@@ -44,7 +42,6 @@ namespace BlogFun.Controllers
             _userManager = userManager;
             _signInManager = signInManager;
             _emailSender = emailSender;
-            _smsSender = smsSender;
             _logger = logger;
             _pictureLocator = pictureLocator;
             _urlEncoder = urlEncoder;

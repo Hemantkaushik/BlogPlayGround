@@ -12,6 +12,9 @@ using BlogFun.Data;
 using BlogFun.Models;
 using BlogFun.Services;
 using Microsoft.AspNetCore.Authentication.Google;
+using Microsoft.AspNetCore.Mvc.Infrastructure;
+using Microsoft.AspNetCore.Mvc;
+
 
 namespace BlogFun
 {
@@ -40,9 +43,9 @@ namespace BlogFun
                 googleOptions.ClientSecret = Configuration["Authentication:Google:ClientSecret"];
                 googleOptions.SaveTokens = true;
             });
-
+            services.AddSingleton<IActionContextAccessor, ActionContextAccessor>();
             // Add application services.
-            services.AddTransient<IEmailSender, EmailSender>();
+            services.AddTransient<IEmailSender, EmailSender>().AddTransient<IGooglePictureLocator, GooglePictureLocator>();
            
             services.AddMvc();
         }

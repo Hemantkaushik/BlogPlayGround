@@ -10,3 +10,15 @@ E:\AspNetCore\BlogPlayGround\BlogFun\obj\Debug\netcoreapp2.0\BlogFun.dll
 E:\AspNetCore\BlogPlayGround\BlogFun\obj\Debug\netcoreapp2.0\BlogFun.pdb
 E:\AspNetCore\BlogPlayGround\BlogFun\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
 E:\AspNetCore\BlogPlayGround\BlogFun\obj\Debug\netcoreapp2.0\BlogFun.csprojAssemblyReference.cache
+C:\Users\Mehul\Documents\GitHub\BlogPlayGround\BlogFun\bin\Debug\netcoreapp2.0\BlogFun.deps.json
+C:\Users\Mehul\Documents\GitHub\BlogPlayGround\BlogFun\bin\Debug\netcoreapp2.0\BlogFun.runtimeconfig.json
+C:\Users\Mehul\Documents\GitHub\BlogPlayGround\BlogFun\bin\Debug\netcoreapp2.0\BlogFun.runtimeconfig.dev.json
+C:\Users\Mehul\Documents\GitHub\BlogPlayGround\BlogFun\bin\Debug\netcoreapp2.0\BlogFun.dll
+C:\Users\Mehul\Documents\GitHub\BlogPlayGround\BlogFun\bin\Debug\netcoreapp2.0\BlogFun.pdb
+C:\Users\Mehul\Documents\GitHub\BlogPlayGround\BlogFun\obj\Debug\netcoreapp2.0\BlogFun.csprojResolveAssemblyReference.cache
+C:\Users\Mehul\Documents\GitHub\BlogPlayGround\BlogFun\obj\Debug\netcoreapp2.0\BlogFun.csproj.CoreCompileInputs.cache
+C:\Users\Mehul\Documents\GitHub\BlogPlayGround\BlogFun\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Mehul\Documents\GitHub\BlogPlayGround\BlogFun\obj\Debug\netcoreapp2.0\BlogFun.AssemblyInfoInputs.cache
+C:\Users\Mehul\Documents\GitHub\BlogPlayGround\BlogFun\obj\Debug\netcoreapp2.0\BlogFun.AssemblyInfo.cs
+C:\Users\Mehul\Documents\GitHub\BlogPlayGround\BlogFun\obj\Debug\netcoreapp2.0\BlogFun.dll
+C:\Users\Mehul\Documents\GitHub\BlogPlayGround\BlogFun\obj\Debug\netcoreapp2.0\BlogFun.pdb
