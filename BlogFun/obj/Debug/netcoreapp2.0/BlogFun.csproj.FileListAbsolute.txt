@@ -1,0 +1,12 @@
+E:\AspNetCore\BlogPlayGround\BlogFun\bin\Debug\netcoreapp2.0\BlogFun.deps.json
+E:\AspNetCore\BlogPlayGround\BlogFun\bin\Debug\netcoreapp2.0\BlogFun.runtimeconfig.json
+E:\AspNetCore\BlogPlayGround\BlogFun\bin\Debug\netcoreapp2.0\BlogFun.runtimeconfig.dev.json
+E:\AspNetCore\BlogPlayGround\BlogFun\bin\Debug\netcoreapp2.0\BlogFun.dll
+E:\AspNetCore\BlogPlayGround\BlogFun\bin\Debug\netcoreapp2.0\BlogFun.pdb
+E:\AspNetCore\BlogPlayGround\BlogFun\obj\Debug\netcoreapp2.0\BlogFun.csproj.CoreCompileInputs.cache
+E:\AspNetCore\BlogPlayGround\BlogFun\obj\Debug\netcoreapp2.0\BlogFun.AssemblyInfoInputs.cache
+E:\AspNetCore\BlogPlayGround\BlogFun\obj\Debug\netcoreapp2.0\BlogFun.AssemblyInfo.cs
+E:\AspNetCore\BlogPlayGround\BlogFun\obj\Debug\netcoreapp2.0\BlogFun.dll
+E:\AspNetCore\BlogPlayGround\BlogFun\obj\Debug\netcoreapp2.0\BlogFun.pdb
+E:\AspNetCore\BlogPlayGround\BlogFun\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\AspNetCore\BlogPlayGround\BlogFun\obj\Debug\netcoreapp2.0\BlogFun.csprojAssemblyReference.cache
